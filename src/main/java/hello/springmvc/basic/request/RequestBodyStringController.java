@@ -75,4 +75,5 @@ public class RequestBodyStringController {
         log.info("messageBody={}", messageBody);
         return "ok";
     }
+
 }
